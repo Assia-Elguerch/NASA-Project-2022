@@ -52,6 +52,40 @@ Link: https://drive.google.com/file/d/17ragawplgZ68aWjL-8_sN-iC6FgJaxbL/view
 ## The Website 💻
 
 
+**Some Code**
+
+
+```css
+header .header {
+	min-height: 8vh;
+	background-color: rgba(31, 30, 30, 0.24);
+	transition: 0.3s ease background-color;
+}
+#header .nav-bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	height: 100%;
+	max-width: 1300px;
+	padding: 0 10px;
+```
+
+
+```html
+  
+   <section id="hero">
+    <div class="hero container">
+      <div>
+        <h1>Problem <span></span></h1>
+        <h1>Solution <span></span></h1>
+        <h1>IMPACT <span></span></h1>
+        <a href="https://www.youtube.com/watch?v=axN6B7bR-_o&feature=youtu.be" type="button" class="cta">Demo Video</a>
+      </div>
+    </div>
+  </section>
+```
+  
 
 <img src='https://sa-2019.s3.amazonaws.com/media/images/4ceab2a9-1de1-4195-bb84-871f18a8410b.max-1000x1000.jpg' height='300'>
 
